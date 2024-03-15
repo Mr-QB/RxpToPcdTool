@@ -1,0 +1,8 @@
+/.editorconfig
+/.vscode
+/cmake
+/cmake-build-debug
+/CMakeLists.txt
+/outputs.pcd
+/pointcloudcpp.cpp
+/venv
